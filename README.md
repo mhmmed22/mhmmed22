@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mhmmed22
-- 👀 I’m interested بالهكر 
-- 🌱 I’m currently learning  الامن السيبران
-- 💞️ I’m looking to collaborate on  حماية
-- 📫 How to reach me ...
+- 👋 Hi, I'm @mhmmed22
+- 👀 I am interested in a hacker
+- 🌱 I am currently learning Cyber Security
+- 💞️ I look forward to cooperating in protecting the world and displacing those who want to blow the world
+📫 How to reach...
 
 <!---
 mhmmed22/mhmmed22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
